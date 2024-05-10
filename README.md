@@ -1,5 +1,7 @@
 # Hola 👋:
-Me llamo Jose, tengo 25 años y soy de Quilpue, Chile 🇨🇱. llevo mas de 1 año especializandome en lenguajes y herramientas de programacion para emprender mi camino como Desarrollador Web. Me gusta enfocarme en el diseño y estructura de mis proyectos. <br><br>Actualmente, estoy colaborando con el desarrollo de la página web de la organización Multidiversos ONG ✅, dedicada a promover la conciencia colectiva, facilitar información, generar espacios para personas con diversidad funcional, dar orientaciones y difundir información relevante sobre la diversidad funcional y la inclusión social. Este proyecto es especialmente significativo para mí, ya que me ofrece la oportunidad de aplicar mis habilidades y aumentar mis conocimientos 🚀, siendo mi primera experiencia práctica en el campo de la programación web 💻.
+Me llamo Jose, tengo 25 años y soy de Quilpué, Chile 🇨🇱. Llevo más de 1 año especializándome en lenguajes y herramientas de programación para emprender mi camino como Desarrollador Web. Me gusta enfocarme en el diseño y estructura de mis proyectos.
+
+Actualmente, estoy colaborando con el desarrollo de la página web de la organización Multidiversos ONG ✅, dedicada a promover la conciencia colectiva, facilitar información, generar espacios para personas con diversidad funcional, dar orientaciones y difundir información relevante sobre la diversidad funcional y la inclusión social. Este proyecto es especialmente significativo para mí, ya que me ofrece la oportunidad de aplicar mis habilidades y aumentar mis conocimientos 🚀, siendo mi primera experiencia práctica en el campo de la programación web 💻.
 
 
 # 💻 Tecnologias que utilizo:
