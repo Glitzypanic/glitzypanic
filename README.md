@@ -4,7 +4,10 @@ Me llamo Jose, tengo 25 años y soy de Quilpué, Chile 🇨🇱. Llevo más de 1
 Actualmente, estoy colaborando con el desarrollo de la página web de la organización Multidiversos ONG ✅, dedicada a promover la conciencia colectiva, facilitar información, generar espacios para personas con diversidad funcional, dar orientaciones y difundir información relevante sobre la diversidad funcional y la inclusión social. Este proyecto es especialmente significativo para mí, ya que me ofrece la oportunidad de aplicar mis habilidades y aumentar mis conocimientos 🚀, siendo mi primera experiencia práctica en el campo de la programación web 💻.
 
 ## Certificados
-[![GitHub Foundation](https://img.shields.io/badge/GitHub-Foundation-blue?logo=github)](https://www.credly.com/go/klZL4YggPxcPBl66ZXJ4VQ)
+![Github Foundations Badge](https://github.com/user-attachments/assets/daf08363-b53a-4ec4-9bc9-44f637aeb317)
+<br/>
+[![GitHub Foundation](https://img.shields.io/badge/GitHub-Foundation-blue?logo=github)](https://www.credly.com/badges/6533664a-478e-4939-96d3-701973956ba4/public_url)
+
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Glitzypanic/30-nites-of-code)  
