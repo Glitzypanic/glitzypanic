@@ -1,5 +1,5 @@
 # Hello 👋:
-My name is Jose, I am 25 years old, and I am from Quilpué, Chile 🇨🇱. I have been specializing in programming languages and tools for over a year to start my journey as a Web Developer. I like to focus on the design and structure of my projects.
+My name is Jose, I am 27 years old, and I am from Quilpué, Chile 🇨🇱. I have been specializing in programming languages and tools for over a year to start my journey as a Web Developer. I like to focus on the design and structure of my projects.
 
 I collaborated on the development of the website for Multidiversos ONG ✅, an organization dedicated to promoting collective awareness, facilitating information, creating spaces for people with functional diversity, providing guidance, and spreading relevant information about functional diversity and social inclusion. This project is especially significant to me as it offers me the opportunity to apply my skills and increase my knowledge 🚀, marking a notable experience in my journey in web programming 💻.
 
